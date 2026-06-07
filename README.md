@@ -312,10 +312,6 @@ subjects to ≥ 32, or extend the kernel generator for `K = 1`.
 
 ---
 
-## License
-
-Add your chosen license here (e.g. MIT). Create a `LICENSE` file in the repo root.
-
 ## Acknowledgements
 
 The warp-shuffle FullDTW approach follows the design of Schmidt et al. (hpc-dtw).
